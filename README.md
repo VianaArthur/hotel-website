@@ -1,11 +1,10 @@
-# hotel-website
+# Company Website
 
-- A generic **Hotel website template**.
+This is an example of a **responsive** Hotel website made using simple `HTML` and `CSS`.
 
-- Technologies used: `HTML` and `CSS`.
+## Preview
 
-- Main responsive layout using `padding`, `margin` and varying between the `display` properties of the elements.
+[![Hotel Website](https://raw.github.com/VianaArthur/hotel-website/master/assets/images/preview.png
+ "Hotel Website")](https://vianaarthur.github.io/hotel-website/)
 
-- Responsive layout for mobile is made using external Media queries.
-
-- Can be accessed at [Hotel](https://vianaarthur.github.io/hotel-website/).
+**[View Live Preview](https://vianaarthur.github.io/hotel-website/)**
