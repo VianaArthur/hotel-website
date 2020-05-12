@@ -1,4 +1,4 @@
-# Company Website
+# Hotel Website
 
 This is an example of a **responsive** Hotel website made using simple `HTML` and `CSS`.
 
